@@ -1,0 +1,112 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Heinovské noci",
+    "identifier": "7efd7bf3-5a54-4470-b63f-e4d1092cf241",
+    "author": "Karel Šiktanc",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-05-05T00:00:00.000Z",
+    "published": "2017-05-09T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_02.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_03.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_04.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_05.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_06.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_07.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_08.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_09.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/heinovske_noci_16.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Titulní strana",
+      "href": "OEBPS/Text/heinovske_noci_03.html"
+    }
+  ]
+}

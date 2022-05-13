@@ -1,0 +1,392 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Heinovské noci",
+      "identifier": "7efd7bf3-5a54-4470-b63f-e4d1092cf241",
+      "author": "Karel Šiktanc",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-05-05T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "heinovske_noci_01.md",
+            "xhtml": "heinovske_noci_01.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_02.md",
+            "xhtml": "heinovske_noci_02.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_03.md",
+            "xhtml": "heinovske_noci_03.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_04.md",
+            "xhtml": "heinovske_noci_04.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_05.md",
+            "xhtml": "heinovske_noci_05.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_06.md",
+            "xhtml": "heinovske_noci_06.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_07.md",
+            "xhtml": "heinovske_noci_07.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_08.md",
+            "xhtml": "heinovske_noci_08.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_09.md",
+            "xhtml": "heinovske_noci_09.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_10.md",
+            "xhtml": "heinovske_noci_10.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_11.md",
+            "xhtml": "heinovske_noci_11.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_12.md",
+            "xhtml": "heinovske_noci_12.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_13.md",
+            "xhtml": "heinovske_noci_13.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_14.md",
+            "xhtml": "heinovske_noci_14.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_15.md",
+            "xhtml": "heinovske_noci_15.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "heinovske_noci_16.md",
+            "xhtml": "heinovske_noci_16.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Heinovské noci",
+      "identifier": "7efd7bf3-5a54-4470-b63f-e4d1092cf241",
+      "author": "Karel Šiktanc",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-05-05T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_01.md",
+        "xhtml": "heinovske_noci_01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_02.md",
+        "xhtml": "heinovske_noci_02.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_03.md",
+        "xhtml": "heinovske_noci_03.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_04.md",
+        "xhtml": "heinovske_noci_04.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_05.md",
+        "xhtml": "heinovske_noci_05.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_06.md",
+        "xhtml": "heinovske_noci_06.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_07.md",
+        "xhtml": "heinovske_noci_07.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_08.md",
+        "xhtml": "heinovske_noci_08.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_09.md",
+        "xhtml": "heinovske_noci_09.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_10.md",
+        "xhtml": "heinovske_noci_10.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_11.md",
+        "xhtml": "heinovske_noci_11.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_12.md",
+        "xhtml": "heinovske_noci_12.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_13.md",
+        "xhtml": "heinovske_noci_13.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_14.md",
+        "xhtml": "heinovske_noci_14.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_15.md",
+        "xhtml": "heinovske_noci_15.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "heinovske_noci_16.md",
+        "xhtml": "heinovske_noci_16.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre9",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-bookprozatextuprostredkurziva",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "pcalibre",
+      "pcalibre1",
+      "siktancbezodsazeni",
+      "siktancodsazeni330bpred",
+      "siktancodsazeni354bpred",
+      "siktancodsazeniponadpisu",
+      "siktancodsazenizleva2b",
+      "siktancodsazenizleva2cxspfirst",
+      "siktancodsazenizleva38b",
+      "siktancodsazenizlevapredaza",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "siktanc-heinovske-noci"
+    },
+    "generatedAt": 1652419586076
+  }
+}
