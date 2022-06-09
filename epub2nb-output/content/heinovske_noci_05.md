@@ -25,6 +25,8 @@ a přiznat pýchu svou
 a přiznat co kdo dluží  
 pochopte   suďte   potěšte
 
+  
+
 radost se křičí
 
 stud se šeptá

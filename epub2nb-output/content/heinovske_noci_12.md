@@ -2,10 +2,12 @@
 contentType: prose
 ---
 
-Heinovské noci!  
+_Heinovské noci!  
 Lásko,  
 najdu tě!  
-Hřebínku v závěji!
+Hřebínku v závěji!_
+
+  
 
 Plechovky  
 ob dům  

@@ -6,4 +6,4 @@ Heinovské noci
 
 Karel Šiktanc
 
-(1960)
+_(1960)_
