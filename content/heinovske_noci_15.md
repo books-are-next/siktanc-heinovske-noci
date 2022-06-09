@@ -28,6 +28,8 @@ Dunajská vodo
 A najednou zvony  
 Třeba už nedýchá
 
+  
+
 Kruh černé krve  
 Horká struska  
 Párkrát nám propálí košili  
@@ -40,6 +42,8 @@ A v humnech hloh
 A v sadech lustry višní  
 Heinovské noci!  
 Lásko   najdu tě!
+
+  
 
 Najdu tě   lásko!  
 Našel jsem tě   lásko!  
@@ -54,6 +58,8 @@ Tady spí válka
 Na věky věkoucí  
 Tři lokty pod zemí
 
+  
+
 Kruh černé krve  
 Horká struska  
 Na haldách hoří  
@@ -63,10 +69,14 @@ Držíme ho až u nebes
 Chvěje se   Tančí   Křičí   Šlehá  
 Křeč větví   Vítr
 
+  
+
 Vyjí psi  
 Nesem ho vpředu  
 Orvaný   Mokrý  
 A starci klečí na návsi
+
+  
 
 I kdyby zbyla jen jediná žíně  
 červená žíně  
@@ -80,6 +90,8 @@ bude v něm
 rudá  
 záplata
 
+  
+
 Nemůžem jinak s touhle černou krví  
 Na Prahu prší  
 A my v lijáku  
@@ -90,6 +102,8 @@ Ať po nás plivnou
 Ať na nás míří ze sklepů  
 Už je nám třicet  
 A chceme jít rovně
+
+  
 
 I třeba bez nohou  
 I třeba po slepu
