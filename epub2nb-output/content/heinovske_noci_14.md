@@ -2,16 +2,14 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko!_
 
-  
+</section>
 
-  
-
-  
-
-  
+<section>
 
 A už jen  
 skácet  
@@ -44,10 +42,16 @@ rozechvělá až po tmu studní
 
 červená zem se propadá
 
-  
+</section>
+
+<section>
 
   
 
-  
+</section>
+
+<section>
 
 _Heinovské noci!_
+
+</section>

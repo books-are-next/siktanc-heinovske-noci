@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko,  
 najdu tě!  
@@ -9,9 +11,9 @@ Hřebínku v závěji,
 zahraju na tebe!  
 Rozsviťte, jabloně, neprosím za sebe._
 
-  
+</section>
 
-  
+<section>
 
 Sklep  
 plný mužů  
@@ -62,3 +64,5 @@ A žebřík se v nich kymácí
 
 A u Horáků na zahradě  
 stavěli stěnu z matrací
+
+</section>

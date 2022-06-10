@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko,  
 najdu tě!  
@@ -10,7 +12,9 @@ zahraju na tebe!
 Rozsviťte, jabloně, neprosím za sebe.  
 Zahraju veselou! Zahraju naději!_
 
-  
+</section>
+
+<section>
 
 A ráz  
 A dva  
@@ -61,3 +65,5 @@ A nekouří se z komínů
 
 A na náves se skutálely  
 dva plné sudy benzínu
+
+</section>

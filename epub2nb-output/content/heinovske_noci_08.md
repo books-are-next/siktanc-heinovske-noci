@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Zase byl červen  
 Lustry višní  
 A u Vališů voněl klíh  
@@ -32,3 +34,5 @@ A mlčel kraj   A mlčel Bůh
 
 A četníci a esesmani  
 uzavírali za vsí kruh
+
+</section>
