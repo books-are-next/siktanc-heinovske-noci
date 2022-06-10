@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla Heinovské noci tak, jak bylo vydáno nakladatelstvím Karolinum v roce 2003 (ŠIKTANC, Karel. _Žízeň;_ _Heinovské noci; Nebožka smrt; Artéská studna._ 1. vyd. Praha: Karolinum, 2003. 195 s. Dílo Karla Šiktance, 1. Československý spisovatel. ISBN 80-246-0785-9.).
 
 * * *
@@ -27,3 +29,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 * * *
 
 Verze 1.0 z 9. 5. 2017.
+
+</section>

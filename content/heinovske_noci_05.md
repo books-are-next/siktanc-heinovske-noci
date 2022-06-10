@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 prší  
       tak pojďte přátelé  
 město je za okny město se do deště dívá  
@@ -25,7 +27,9 @@ a přiznat pýchu svou
 a přiznat co kdo dluží  
 pochopte   suďte   potěšte
 
-  
+</section>
+
+<section>
 
 radost se křičí
 
@@ -36,3 +40,5 @@ slzy jen voda jsou
 nechte je za zuby
 
 a jestli mne se někdo zeptá — — —
+
+</section>

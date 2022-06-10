@@ -2,15 +2,17 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko,  
 najdu tě!  
 Hřebínku v závěji,  
 zahraju na tebe!_
 
-  
+</section>
 
-  
+<section>
 
 Třasavka listí  
 Vzlykot splávků  
@@ -61,3 +63,5 @@ se kutálejí korálky
 
 A z rádia zní po vsi třasák  
 bádenbádenské kutálky
+
+</section>

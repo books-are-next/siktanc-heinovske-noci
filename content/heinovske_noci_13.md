@@ -2,15 +2,15 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko,  
 najdu tě!_
 
-  
+</section>
 
-  
-
-  
+<section>
 
 Mrtví  
 jsou směšní  
@@ -47,3 +47,5 @@ Havrani zobou z hrnců hrách
 
 A šarže nesou ze hřbitova  
 bedýnky lahví na marách
+
+</section>

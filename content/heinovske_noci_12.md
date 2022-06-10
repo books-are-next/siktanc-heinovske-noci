@@ -2,12 +2,16 @@
 contentType: prose
 ---
 
+<section>
+
 _Heinovské noci!  
 Lásko,  
 najdu tě!  
 Hřebínku v závěji!_
 
-  
+</section>
+
+<section>
 
 Plechovky  
 ob dům  
@@ -49,3 +53,5 @@ přes příkop
 
 A zástup židů potmě kopá  
 dlouhatý mokrý temný hrob
+
+</section>

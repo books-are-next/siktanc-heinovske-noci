@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Těch růží!  
 zvadly u pomníků padlých  
 Těch vrabců!  
@@ -28,7 +30,9 @@ Dunajská vodo
 A najednou zvony  
 Třeba už nedýchá
 
-  
+</section>
+
+<section>
 
 Kruh černé krve  
 Horká struska  
@@ -43,7 +47,9 @@ A v sadech lustry višní
 Heinovské noci!  
 Lásko   najdu tě!
 
-  
+</section>
+
+<section>
 
 Najdu tě   lásko!  
 Našel jsem tě   lásko!  
@@ -58,7 +64,9 @@ Tady spí válka
 Na věky věkoucí  
 Tři lokty pod zemí
 
-  
+</section>
+
+<section>
 
 Kruh černé krve  
 Horká struska  
@@ -69,14 +77,18 @@ Držíme ho až u nebes
 Chvěje se   Tančí   Křičí   Šlehá  
 Křeč větví   Vítr
 
-  
+</section>
+
+<section>
 
 Vyjí psi  
 Nesem ho vpředu  
 Orvaný   Mokrý  
 A starci klečí na návsi
 
-  
+</section>
+
+<section>
 
 I kdyby zbyla jen jediná žíně  
 červená žíně  
@@ -90,7 +102,9 @@ bude v něm
 rudá  
 záplata
 
-  
+</section>
+
+<section>
 
 Nemůžem jinak s touhle černou krví  
 Na Prahu prší  
@@ -103,7 +117,11 @@ Ať na nás míří ze sklepů
 Už je nám třicet  
 A chceme jít rovně
 
-  
+</section>
+
+<section>
 
 I třeba bez nohou  
 I třeba po slepu
+
+</section>
