@@ -43,7 +43,7 @@ A vyjí žlutí psi!_
 
 — — — Však naši mrtví spali
 
-                                   ve vedlejší vsi
+            ve vedlejší vsi
 
 a ta se jmenovala Lidice — — —
 
