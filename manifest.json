@@ -1,0 +1,298 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Heinovské noci",
+  "author": "Karel Šiktanc",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "siktanc-heinovske-noci-9ae398b",
+  "revision": "9ae398b",
+  "readingOrder": [
+    "promo.html",
+    "heinovske_noci_05.html",
+    "heinovske_noci_06.html",
+    "heinovske_noci_07.html",
+    "heinovske_noci_08.html",
+    "heinovske_noci_09.html",
+    "heinovske_noci_10.html",
+    "heinovske_noci_11.html",
+    "heinovske_noci_12.html",
+    "heinovske_noci_13.html",
+    "heinovske_noci_14.html",
+    "heinovske_noci_15.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 10 2022 13:00:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657458009327
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "heinovske_noci_05.html",
+      "toc": []
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_05.html",
+      "words": 102,
+      "chars": 496,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "heinovske_noci_06.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_06.html",
+      "words": 520,
+      "chars": 2802,
+      "ideas": 142,
+      "role": "chapter",
+      "order": 2,
+      "prev": "heinovske_noci_05.html",
+      "next": "heinovske_noci_07.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_07.html",
+      "words": 70,
+      "chars": 394,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 3,
+      "prev": "heinovske_noci_06.html",
+      "next": "heinovske_noci_08.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_08.html",
+      "words": 96,
+      "chars": 498,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 4,
+      "prev": "heinovske_noci_07.html",
+      "next": "heinovske_noci_09.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_09.html",
+      "words": 153,
+      "chars": 781,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 5,
+      "prev": "heinovske_noci_08.html",
+      "next": "heinovske_noci_10.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_10.html",
+      "words": 148,
+      "chars": 759,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 6,
+      "prev": "heinovske_noci_09.html",
+      "next": "heinovske_noci_11.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_11.html",
+      "words": 143,
+      "chars": 760,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 7,
+      "prev": "heinovske_noci_10.html",
+      "next": "heinovske_noci_12.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_12.html",
+      "words": 109,
+      "chars": 537,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 8,
+      "prev": "heinovske_noci_11.html",
+      "next": "heinovske_noci_13.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_13.html",
+      "words": 98,
+      "chars": 527,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 9,
+      "prev": "heinovske_noci_12.html",
+      "next": "heinovske_noci_14.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_14.html",
+      "words": 95,
+      "chars": 469,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 10,
+      "prev": "heinovske_noci_13.html",
+      "next": "heinovske_noci_15.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heinovské noci",
+      "file": "heinovske_noci_15.html",
+      "words": 338,
+      "chars": 1674,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 11,
+      "prev": "heinovske_noci_14.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 168,
+      "chars": 1213,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "heinovske_noci_15.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2046,
+      "chars": 10946,
+      "ideas": 559
+    },
+    "chapters": {
+      "words": 1872,
+      "chars": 9697,
+      "ideas": 538
+    }
+  }
+}
