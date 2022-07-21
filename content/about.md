@@ -8,7 +8,7 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 10. 7. 2022.
+V MKP 2. elektronické vydání z 21. 7. 2022.
 
 ***
 
@@ -26,7 +26,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-ŠIKTANC, Karel. _Heinovské noci_ \[online\]. 2. elektron. vyd. Praha: Městská knihovna v Praze, 2017 \[cit. 10. 7. 2022]. ISBN 978-80-7532-803-8 (epub). Dostupné z:
+ŠIKTANC, Karel. _Heinovské noci_ \[online\]. 2. elektron. vyd. Praha: Městská knihovna v Praze, 2017 \[cit. 21. 7. 2022]. ISBN 978-80-7532-803-8 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/31/55/18/heinovske\_noci.epub](http://web2.mlp.cz/koweb/00/04/31/55/18/heinovske_noci.epub).
 
