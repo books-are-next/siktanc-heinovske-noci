@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2604-1
 readingOrder:
   - promo.html
   - heinovske_noci_05.html

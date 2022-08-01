@@ -9,7 +9,8 @@
       "modified": "2017-05-05T00:00:00.000Z",
       "edition": "poezie",
       "publisherShort": "mkp",
-      "contentType": "poetry"
+      "contentType": "poetry",
+      "isbn": "978-80-274-2604-1"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "prší..."
+            "title": "prší...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_06.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Vyšli jsme školu..."
+            "title": "Vyšli jsme školu...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_07.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Heinovské noci!..."
+            "title": "Heinovské noci!...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_08.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Zase byl červen..."
+            "title": "Zase byl červen...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_09.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "A ráz..."
+            "title": "A ráz...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_10.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Sklep plný mužů..."
+            "title": "Sklep plný mužů...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_11.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Třasavka listí..."
+            "title": "Třasavka listí...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_12.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Plechovky ob dům..."
+            "title": "Plechovky ob dům...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_13.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Mrtví jsou směšní..."
+            "title": "Mrtví jsou směšní...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_14.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "A už jen skácet..."
+            "title": "A už jen skácet...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_15.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Těch růží!..."
+            "title": "Těch růží!...",
+            "children": []
           },
           {
             "filename": "heinovske_noci_16.md",
@@ -421,6 +422,6 @@
       "user": "books-are-next",
       "repo": "siktanc-heinovske-noci"
     },
-    "generatedAt": 1658412805100
+    "generatedAt": 1659362751871
   }
 }
