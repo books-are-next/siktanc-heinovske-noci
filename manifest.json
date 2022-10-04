@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "siktanc-heinovske-noci-c13302d",
-  "revision": "c13302d",
+  "identifier": "siktanc-heinovske-noci-4dc7452",
+  "revision": "4dc7452",
   "readingOrder": [
     "promo.html",
     "heinovske_noci_05.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:04:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640265579
+    "date": "Tue Oct 04 2022 16:52:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902355673
   },
   "documents": [
     {
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 172,
+      "words": 171,
       "chars": 1250,
-      "ideas": 18,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "heinovske_noci_15.html",
@@ -285,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2050,
+      "words": 2049,
       "chars": 10983,
-      "ideas": 560
+      "ideas": 559
     },
     "chapters": {
       "words": 1872,
